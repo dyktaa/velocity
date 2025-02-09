@@ -1,2 +1,2 @@
 # velocity
-Jak skonfigurować velocity?
+
